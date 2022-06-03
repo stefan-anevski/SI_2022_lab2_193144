@@ -4,7 +4,7 @@
 
 Control Flow Graph
 
-![alt text](https://github.com/[stefan-anevski]/[SI_2022_lab2_193144]/blob/[branch]/CFG.png?raw=true)
+![alt text](https://github.com/stefan-anevski/SI_2022_lab2_193144/blob/main/CFG.png)
 
 
 Цикломатска комплексност
